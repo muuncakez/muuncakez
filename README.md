@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Naia Johnson
-- 👀 I’m interested in EECS, game development and CPU oogle boogles
-- 🌱 I’m currently taking CS186, EECS151, and CS195 @ Berkeley
-- 💞️ I’m looking to collaborate on ... websites, robotics, and task management!
+- 👀 I’m interested in EECS, game development and biontic development! 
+- 🌱 I’m currently taking MCB32, CS186, EECS151, and CS195 @ UC Berkeley
+- 💞️ I’m looking to collaborate on ... websites, robotics, and bio tech!
 
 <!---
 muuncakez/muuncakez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
